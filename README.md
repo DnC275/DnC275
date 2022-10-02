@@ -1,9 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 50 mins   ████████████████████████▓   99.03 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
