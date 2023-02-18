@@ -1,8 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          █████████████████▓░░░░░░░   70.88 %
-Markdown     0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+Kotlin       2 hrs 5 mins    █████████████████████████   99.35 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
