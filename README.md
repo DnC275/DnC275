@@ -1,7 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git Config   18 mins         ████████████████▓░░░░░░░░   66.09 %
+Kotlin       5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Docker       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
